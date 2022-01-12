@@ -6,15 +6,9 @@
 - ⚡ Fun fact: I love to reading and editing videos, photos
 
 ### Connect with me:
+</br>
+<a href='https://www.linkedin.com/in/ozancck/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="30"> </a>&nbsp;<a href='https://www.instagram.com/ozancicek0/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-512.png" width="30"> </a>&nbsp;
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
----
-
-[instagram]: https://instagram.com/ozancicek0
-[linkedin]: https://linkedin.com/in/ozancck
 
 </br>
 <img width=600 src="https://wakatime.com/share/@c415a0e9-e067-4baa-ab55-570d78d6fb5f/4628ebbc-4904-4045-81e2-3aa9dffc06fa.svg">
