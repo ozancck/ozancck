@@ -11,6 +11,7 @@
 ------------
 ### Technologies and tools :
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="25"> &nbsp;
+<img src="https://cdn.svgporn.com/logos/c-sharp.svg" width="25"> &nbsp;
 <img src="https://cdn.svgporn.com/logos/python.svg" width="25"> &nbsp; 
 <img  src="https://cdn.svgporn.com/logos/jupyter.svg" width="25"> &nbsp;
 <img src="https://cdn.svgporn.com/logos/webstorm.svg" width="25"> &nbsp;
