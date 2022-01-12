@@ -9,6 +9,9 @@
 
 <a href='https://www.linkedin.com/in/ozancck/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="30"> </a>&nbsp;<a href='https://www.instagram.com/ozancicek0/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-512.png" width="30"> </a>&nbsp;
 
+#### Technologies and tools :
+<img src="https://cdn.svgporn.com/logos/javascript.svg" width="25"> &nbsp;  <img src="https://cdn.svgporn.com/logos/python.svg" width="25"> &nbsp;  <img  src="https://cdn.svgporn.com/logos/jupyter.svg" width="25"> &nbsp; <img src="https://cdn.svgporn.com/logos/ant-design.svg" width="25">  &nbsp; <img src="https://cdn.svgporn.com/logos/webstorm.svg" width="25">  &nbsp; <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="25"> &nbsp; 
+
 
 </br>
 <img width=600 src="https://wakatime.com/share/@c415a0e9-e067-4baa-ab55-570d78d6fb5f/4628ebbc-4904-4045-81e2-3aa9dffc06fa.svg">
