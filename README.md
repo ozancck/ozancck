@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love to reading and editing videos, photos
 
 ### Connect with me:
-</br>
+
 <a href='https://www.linkedin.com/in/ozancck/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="30"> </a>&nbsp;<a href='https://www.instagram.com/ozancicek0/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-512.png" width="30"> </a>&nbsp;
 
 
