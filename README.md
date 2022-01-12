@@ -1,6 +1,6 @@
 ### Hi there, I'm Ozan 👋 
 
-## I'm a computer engineering's student!!
+## I'm a computer engineering student!!
 - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Reaching advanced level in JavaScript, Java and C#
 - ⚡ Fun fact: I love to reading and editing videos, photos
