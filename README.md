@@ -1,4 +1,4 @@
-### Hi there, I'm Ozam 👋 
+### Hi there, I'm Ozan 👋 
 
 ## I'm a computer engineering's student!!
 - 🌱 I’m currently learning everything 
