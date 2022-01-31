@@ -2,7 +2,7 @@
 
 ### I'm a computer engineering student!!
 - 🌱 I’m currently learning everything 
-- 🥅 2022 Goals: Reaching advanced level in JavaScript, Java and C#
+- 🥅 2022 Goals: Reaching advanced level in JavaScript
 - ⚡ Fun fact: I love to reading and editing videos, photos
 
 ### Connect with me:
