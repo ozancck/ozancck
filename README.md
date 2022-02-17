@@ -21,7 +21,7 @@
 <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="25"> &nbsp;
 <img src="https://cdn.svgporn.com/logos/visual-studio.svg" width="25"> &nbsp;
 <img src="https://cdn.svgporn.com/logos/java.svg" width="25"> &nbsp;
-<img src="https://cdn.svgporn.com/logos/nodejs.svg" width="25"> &nbsp;
+<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="25"> &nbsp;
 
 
 </br>
