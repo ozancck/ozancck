@@ -2,7 +2,7 @@
 
 ### I'm a computer engineering student!!
 - 🌱 I’m currently learning everything 
-- 🥅 2022 Goals: Reaching advanced level in JavaScript, NodeJS
+- 🥅 2022 Goals: Reaching advanced level in JavaScript, NodeJS, NestJS and React
 - ⚡ Fun fact: I love to reading and editing videos, photos
 
 ### Connect with me:
