@@ -2,7 +2,7 @@
 
 ### I'm a computer engineering student!!
 - 🌱 I’m currently learning everything 
-- 🥅 2022 Goals: Reaching advanced level in JavaScript, NodeJS, NestJS and React
+- 🥅 2023 Goals: Reaching advanced level in Swift
 - ⚡ Fun fact: I love to reading and editing videos, photos
 
 ### Connect with me:
@@ -23,6 +23,7 @@
 <img src="https://cdn.svgporn.com/logos/pug.svg" width="25"> &nbsp;
 <img src="https://cdn.svgporn.com/logos/nestjs.svg" width="25"> &nbsp;
 <img src="https://cdn.svgporn.com/logos/react.svg" width="25"> &nbsp;
+<img src="https://cdn.svgporn.com/logos/swift.svg" width="25"> &nbsp;
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozancck&label=Profile%20views&color=0e75b6&style=flat" alt="ozancck" /> </p>
