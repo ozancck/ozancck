@@ -25,13 +25,8 @@
 <img src="https://cdn.svgporn.com/logos/react.svg" width="25"> &nbsp;
 <img src="https://cdn.svgporn.com/logos/swift.svg" width="25"> &nbsp;
  
+ ------------
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozancck&" alt="ozancck" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozancck&" alt="ozancck"/>
 
-
-
-
-
-
-</br>
-<img width=600 src="https://wakatime.com/share/@c415a0e9-e067-4baa-ab55-570d78d6fb5f/4628ebbc-4904-4045-81e2-3aa9dffc06fa.svg">
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ozancck&layout=compact&hide=json)
