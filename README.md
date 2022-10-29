@@ -26,7 +26,9 @@
 <img src="https://cdn.svgporn.com/logos/swift.svg" width="25"> &nbsp;
  
  ------------
+ 
+ <a href="https://github.com/thepiyushmalhotra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ozancck&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozancck&theme=noctis_minimus&layout=compact" />
+</a>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozancck&" alt="ozancck"/>
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ozancck&layout=compact&hide=json)
