@@ -24,6 +24,7 @@
 <img src="https://cdn.svgporn.com/logos/nestjs.svg" width="25"> &nbsp;
 <img src="https://cdn.svgporn.com/logos/react.svg" width="25"> &nbsp;
 <img src="https://cdn.svgporn.com/logos/swift.svg" width="25"> &nbsp;
+<img src="https://cdn.svgporn.com/logos/firebase.svg" width="25"> &nbsp;
  
  ------------
  
