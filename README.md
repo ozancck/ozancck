@@ -5,6 +5,8 @@
 - 🥅 2023 Goals: Reaching advanced level in Swift and SwiftUI
 - ⚡ Fun fact: I love to reading and editing videos
 
+- [![wakatime](https://wakatime.com/badge/user/c415a0e9-e067-4baa-ab55-570d78d6fb5f.svg)](https://wakatime.com/@c415a0e9-e067-4baa-ab55-570d78d6fb5f)
+
 ### Connect with me:
 
 <a href='https://www.linkedin.com/in/ozancck/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="30"> </a>&nbsp;<a href='https://www.instagram.com/ozancicek0/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-512.png" width="30"> </a>&nbsp;
