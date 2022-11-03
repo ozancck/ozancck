@@ -14,7 +14,7 @@
 
 ------------
 
-### Technologies and tools :
+### Technologies :
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="25"> &nbsp;
 <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="25"> &nbsp;
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="25"> &nbsp;
@@ -31,7 +31,7 @@
  
  ------------
  
- <a href="https://github.com/thepiyushmalhotra">
+ <a href="https://github.com/ozancck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ozancck&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozancck&theme=noctis_minimus&layout=compact" />
 </a>
