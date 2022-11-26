@@ -28,6 +28,7 @@
 <img src="https://cdn.svgporn.com/logos/swift.svg" width="25"> &nbsp;
 <img src="https://cdn.svgporn.com/logos/firebase.svg" width="25"> &nbsp;
 <img src="https://cdn.svgporn.com/logos/cocoapods.svg" width="25"> &nbsp;
+<img src="https://cdn.svgporn.com/logos/parse.svg" width="25"> &nbsp;
  
  ------------
  
