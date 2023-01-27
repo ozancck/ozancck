@@ -1,4 +1,4 @@
-## Hi there, I'm Ozan 👋 
+## Hi there, I'm Ozan Cicek 👋 
 
 ### I'm a computer engineering student!
 - 🌱 I’m currently learning everything 
