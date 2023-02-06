@@ -1,8 +1,6 @@
 ## Hi there, I'm Ozan Cicek 👋 
 
 ### I'm a computer engineering student!
-
-- 🌱 I’m currently learning everything.
 - 🥅 2023 Goals: Reaching advanced level in Swift and SwiftUI.
 - ⚡ Fun fact: I love to reading and swimming.
 
