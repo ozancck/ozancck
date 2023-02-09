@@ -16,14 +16,13 @@
 </a>
 </p>
 
-<p></p>
 
 <p align="center" >
 <a href='https://www.linkedin.com/in/ozancck/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="40"> </a>&nbsp;<a href='https://www.instagram.com/ozancicek0/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-512.png" width="40"> </a>&nbsp;
 <a href='mailto:ozancck@icloud.com'> <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/154/social-media_email_new-3-512.png" width="40"> </a>&nbsp;
 </p>
 
-<h2 align= "denter"> connect with me </h2>
+<p align= "center"> connect with me </p>
 
 
 
