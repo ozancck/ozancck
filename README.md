@@ -3,8 +3,6 @@
 ### I'm a computer engineering student!
 - 🥅 2023 Goals: Reaching advanced level in iOS Development.
 - ⚡ Fun fact: I love to reading and swimming 
-
-- [![wakatime](https://wakatime.com/badge/user/c415a0e9-e067-4baa-ab55-570d78d6fb5f.svg)](https://wakatime.com/@c415a0e9-e067-4baa-ab55-570d78d6fb5f)
 ------------
 
 
