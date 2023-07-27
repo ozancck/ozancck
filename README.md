@@ -1,9 +1,13 @@
+
+![2222-2](https://github.com/ozancck/ozancck/assets/77584235/9af7f4a1-7078-4ed9-9643-56cb1a0616c8)
+
 ## Hi there, I'm Ozan Cicek 👋 
 
 ### I'm a computer engineering student!
 - 🥅 2023 Goals: Reaching advanced level in iOS Development.
 - ⚡ Fun fact: I love to reading and swimming 
 ------------
+
 
 
 
