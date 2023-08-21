@@ -1,5 +1,4 @@
 
-![2222-2](https://github.com/ozancck/ozancck/assets/77584235/9af7f4a1-7078-4ed9-9643-56cb1a0616c8)
 <!-- 
 ## Hi there, I'm Ozan Cicek 👋 
 
